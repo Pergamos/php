@@ -1,5 +1,6 @@
 <?php 
 
-	echo "Olá Mundo!";
+	echo "Olá Mundo! Hello World!";
+	echo "Olá Pérgamo";
 
 ?>
